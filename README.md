@@ -17,7 +17,7 @@ A machine learning model predicting heart failure risk using XGBoost and LightGB
 - [License](#-license)
 
 ## ✨ Features
-✔️ Complete EDA with visualizations  
+✔️ Complete EDA with visualisations  
 ✔️ Data cleaning & preprocessing  
 ✔️ Feature engineering  
 ✔️ XGBoost & LightGBM implementation  
@@ -25,7 +25,7 @@ A machine learning model predicting heart failure risk using XGBoost and LightGB
 ✔️ Ready-to-use prediction function  
 
 ## 📂 Dataset
-**Source:** [Kaggle](https://www.kaggle.com/datas/fedesoriano/heart-failure-prediction)  
+**Source:** [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) 
 **Features:** Age, Sex, ChestPainType, RestingBP, Cholesterol, FastingBS, RestingECG, MaxHR, ExerciseAngina, Oldpeak, ST_Slope  
 **Target:** HeartDisease (1 = Yes, 0 = No)  
 
